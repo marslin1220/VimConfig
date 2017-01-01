@@ -1,7 +1,8 @@
 # Synchronizing plugins with git submodules and pathogen
 
-
 ## Installation
+
+**Warning!! Use https://github.com/marslin1220/dotfiles to install vim**
 
 ```sh
 git clone git@github.com:marslin1220/VimConfig.git ~/.vim
