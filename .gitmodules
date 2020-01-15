@@ -1,3 +1,6 @@
 [submodule "bundle/dracula-theme"]
 	path = bundle/dracula-theme
 	url = git@github.com:dracula/vim.git
+[submodule "bundle/vim-colours-dusk"]
+	path = bundle/vim-colours-dusk
+	url = git@github.com:jaapie/vim-colours-dusk
